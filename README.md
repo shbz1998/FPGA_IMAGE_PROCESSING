@@ -1,4 +1,4 @@
-# FPGA_IMAGE_PROCESSING
+# FPGA_VGA_PROCESSING
 
 VIDEO DEMO: https://www.youtube.com/watch?v=L4u2MlWmiH8
 
